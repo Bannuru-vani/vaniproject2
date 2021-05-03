@@ -1,0 +1,28 @@
+.con {
+  background-color: pink;
+  font-size:25px;
+  border:4px solid black;
+  padding:15px;
+}
+.head{
+   background-color:green;
+  font-size:25px;
+  border:4px solid black;
+  padding:15px;
+  color:#fff;
+
+}
+.foot{
+   background-color:yellow;
+  font-size:25px;
+  border:4px solid black;
+  padding:15px;
+  color:#fff;
+
+}
+.pa{
+  font-size: 34px;
+  text-align:center;
+  color:blue;
+
+}
